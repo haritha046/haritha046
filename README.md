@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋, I'm Haritha Srinivasan
 
-<!--
-**haritha046/haritha046** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Computer Science and Engineering Student
 
-Here are some ideas to get you started:
+I'm a CSE-IT student interested in **Data Science, Machine Learning,
+Cybersecurity, and Software Development**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently learning and improving my skills in Python, Machine Learning,
+Data Science and Software Development.
+
+💻 Interested in building practical AI/ML and cybersecurity projects.
+
+🚀 Projects
+- ✈️ Flight Delay Prediction
+- 👤 Face Recognition and Gesture Based Attendance System
+- 🔐 AI-Driven Continuous Trust Evaluation for Zero Trust Security in 6G Systems
+- 🌱 Weed Detection using Drone Images
+
+### 🛠️ Skills
+
+**Languages**
+- Python
+- SQL
+
+**Data & AI**
+- Machine Learning
+- Data Analysis
+- Pandas
+- NumPy
+- Scikit-learn
+
+**Cybersecurity**
+- Zero Trust Architecture
+- Network Security
+- Network Slicing
+
+### 📌 Featured Projects
+
+🔹 Flight Delay Prediction  
+🔹 Face Recognition & Gesture Based Attendance  
+🔹 AI-Driven Continuous Trust Evaluation for 6G Networks
+
+### 📫 Connect with me
+
+- GitHub: https://github.com/haritha046
+
+---
+
+⭐ Thanks for visiting my profile!
