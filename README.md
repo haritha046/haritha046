@@ -14,7 +14,7 @@ Data Science and Software Development.
 - ✈️ Flight Delay Prediction
 - 👤 Face Recognition and Gesture Based Attendance System
 - 🔐 AI-Driven Continuous Trust Evaluation for Zero Trust Security in 6G Systems
-- 🌱 Weed Detection using Drone Images
+ -🧬 Agentic Retrieval-Augmented Generation Framework for Evidence-Based Oncology Question Answering
 
 ### 🛠️ Skills
 
@@ -34,11 +34,6 @@ Data Science and Software Development.
 - Network Security
 - Network Slicing
 
-### 📌 Featured Projects
-
-🔹 Flight Delay Prediction  
-🔹 Face Recognition & Gesture Based Attendance  
-🔹 AI-Driven Continuous Trust Evaluation for 6G Networks
 
 ### 📫 Connect with me
 
